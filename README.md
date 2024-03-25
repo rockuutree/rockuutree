@@ -1,4 +1,4 @@
-# [img]https://i.imgur.com/8aaDm36.png[/img]
+# [Imgur](https://imgur.com/8aaDm36)
 
 ### 👋,
 Hi, I'm Ryan! I'm a 20-year-old developer
