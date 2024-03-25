@@ -22,10 +22,3 @@
 <p>
 </div>
 </div>
-<h2 align="center" style="font-size: 22px"> 📧 Need to contact me? 📧 </h2>
-  <p align="center">
-    <br>
-    <li><b>Discord:</b> rambling</li>
-    <li><b>Email:</b> hello@cirno.codes</li>
-  </p>
-</html>
