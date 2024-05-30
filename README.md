@@ -3,5 +3,7 @@
 ### 👋,
 Hi, I'm Ryan! I'm a 20-year-old developer
 
+Most of my commits are private~
+
 ### 📫 How to reach me:
 Reach out to my email *(vurya22@uw.edu)* or add me on Discord  *(rocktree)*
